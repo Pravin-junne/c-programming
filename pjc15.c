@@ -7,7 +7,7 @@ int main()
     while(i<=10)
     {
         table=number*i;
-        printf("5* %d = %d\n",i,table);
+        printf("%d* %d = %d\n",number,i,table);
         i++;
     }
 return 0;
