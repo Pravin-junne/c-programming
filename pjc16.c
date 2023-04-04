@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
-{
+{       //do-while loop program to print table
     int a=1,t,n;
     printf("Enter the number:-");
     scanf("%d",&n);
